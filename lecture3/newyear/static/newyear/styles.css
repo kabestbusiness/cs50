@@ -1,0 +1,9 @@
+body{
+    height: 100vh;
+}
+h1{
+    font-family: sans-serif;
+    font-size: 100px;
+    text-align: center;
+    color: rgb(58, 174, 213);
+}
